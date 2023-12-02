@@ -1,3 +1,5 @@
+// Classe responsável por criar itens que serão armazenados no problema da mochila
+// Possui valor, peso e a razao entre valor e peso, usado para ordenar os itens
 public class Item {
 	public int valor;
 	public int peso;
